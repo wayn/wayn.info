@@ -1,0 +1,5 @@
+{
+	"name" : "Wayn Info",
+	"main" : "./lib/index.js",
+	"customHost" : "wayn.info"
+}
