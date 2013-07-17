@@ -1,8 +1,8 @@
 $(document).ready(function() {
     $('pre').addClass('prettyprint linenums');
     prettyPrint();
-    hideHello();
-    addTitleList();
+    // hideHello();
+    // addTitleList();
 });
 function hideHello() {
 	$('article:first').delay(10000).animate({height:0, margin:0},"slow",function(){$(this).hide();});
