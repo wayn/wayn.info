@@ -293,7 +293,6 @@ section.wrapper {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    max-width: 810px;
     padding: 50px 75px;
 }
 .side, .main {
