@@ -99,7 +99,7 @@ code {
 /* Master
 --------------------------------------------- */
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Lucida Grande","微软雅黑";
     color: #444;
     font-size: 100%;
     background: #EDECE4;
@@ -285,11 +285,6 @@ header h2 {
 section.wrapper {
     overflow: auto;
     outline: 0;
-    position: absolute;
-    left: 30%;
-    right: 0;
-    top: 0;
-    bottom: 0;
     background-color: #fff;
     -webkit-overflow-scrolling: touch;
 }
